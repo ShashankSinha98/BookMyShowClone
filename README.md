@@ -7,7 +7,21 @@ This repo conisist of the same project that I built by following their instructi
 
 ### Application Screenshot
 
+<img src="Sample_img.jpg" width="250" height="500">
 
+
+<br />
+
+### Libraries used - 
+- Retrofit
+- Gson
+- Glide
+- Room
+- Lifecycle
+- ViewModel
+- Material Design
+
+<br />
 For original DevFest-2020 video, click below -
 
 - [Day 1](https://www.youtube.com/watch?v=C8k9mdb9NE8&t=6167s)
